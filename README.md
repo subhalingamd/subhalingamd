@@ -10,7 +10,7 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-subhalingamd-cd201f?style=flat&logo=Youtube&logoColor=white&link=https://youtube.com/subhalingamd/)](https://youtube.com/subhalingamd) -->
 <!-- [![Quora Badge](https://img.shields.io/badge/-subhalingamd-b92b27?style=flat&logo=Quora&logoColor=white&link=https://quora.com/subhalingamd/)](https://quora.com/subhalingam-d) -->
 
-I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in Mathematics and Computing. I'm a passionate Full-Stack Developer and a Deep Learning enthusiast.<!--- I'm an incoming summer intern at [S...](#). --> Besides programming, I have an immense interest in teaching and I love watching football, watching movies & listening to music.
+I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in Mathematics and Computing. I'm a passionate Full-Stack Developer, a Deep Learning enthusiast and an incoming summer intern at [Samsung R&D Institute](https://research.samsung.com/sri-n). Besides programming, I have an immense interest in teaching and I love watching football, watching movies & listening to music.
 
 <!---
 - 💻 I’m currently working with my Course projects on Information Retrieval and Fuzzy Neural Networks
