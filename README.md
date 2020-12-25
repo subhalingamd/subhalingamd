@@ -19,6 +19,13 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 - 📄 Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)
 --->
 
+**Get to know about me from the Command Line! Go to Terminal and use**
+```
+npx subhalingamd
+```
+*To know more about this tool , watch [subhalingamd/npx-card](https://github.com/subhalingamd/npx-card)*
+
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-359424%20lines%20of%20code-blue)
 
