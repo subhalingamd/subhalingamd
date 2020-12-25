@@ -19,11 +19,14 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 - 📄 Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)
 --->
 
-**Get to know about me from the Command Line! Go to Terminal and use**
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark" align="right">
+
+**Get to know about me from the Command Line!** <br />
+Open Terminal and type:
 ```
 npx subhalingamd
 ```
-*To know more about this tool , watch [subhalingamd/npx-card](https://github.com/subhalingamd/npx-card)*
+*To know more about this tool, watch [subhalingamd/npx-card](https://github.com/subhalingamd/npx-card)*
 
 
 <!--START_SECTION:waka-->
@@ -85,7 +88,8 @@ Jupyter Notebook         4 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true)
+
+<!--- ![Github stats](https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark) -->
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhalingamd&layout=compact) -->
 
 **Ask me anything [here](https://www.github.com/subhalingamd/subhalingamd/issues/)**
