@@ -19,7 +19,7 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 - 📄 Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)
 --->
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark" align="right">
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_rank=true" align="right">
 
 **Get to know about me from the Command Line!** <br />
 Open Terminal and type:
