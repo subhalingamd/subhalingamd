@@ -39,9 +39,8 @@ npx subhalingamd
 
 <hr>
 
-<details>
-  <summary><b>Waka Stats</b></summary>
-
+<details open>
+<summary><b>Waka Stats</b></summary>
 <br/>
 
 <!--START_SECTION:waka-->
