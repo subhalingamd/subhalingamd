@@ -15,7 +15,7 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 <br />
 
 
-⚙️ &nbsp; I’m currently working with my Course projects on **Information Retrieval** and **Fuzzy Neural Networks** <br />
+👨‍💻 &nbsp; I’m currently working with my Course projects on **Information Retrieval** and **Fuzzy Neural Networks** <br />
 🔭 &nbsp; I’m currently exploring **Question/Answering (Q/A) models** in Information Retrieval <br />
 💬 &nbsp; Brainstorm with me over tech, football, movies and music <br />
 😄 &nbsp; Pronouns: He/Him/His <br />
