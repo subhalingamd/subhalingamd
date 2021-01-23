@@ -33,7 +33,7 @@ npx subhalingamd
 
 <br /><br />
 
-### Stats
+### Waka Stats
 
 
 <!--START_SECTION:waka-->
