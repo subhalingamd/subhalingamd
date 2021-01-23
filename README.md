@@ -30,7 +30,7 @@ Open Terminal and type:
 npx subhalingamd
 ```
 *To know more about this tool, watch [subhalingamd/npx-card](https://github.com/subhalingamd/npx-card)*
-
+<br /><br />
 
 
 <!--- ![Github stats](https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark) -->
