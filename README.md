@@ -33,8 +33,11 @@ npx subhalingamd
 
 <br /><br />
 
-### Waka Stats
 
+<details>
+  <summary><b>Waka Stats</b></summary>
+
+<br/>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362879%20lines%20of%20code-blue)
@@ -95,6 +98,7 @@ Jupyter Notebook         4 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+</details>
 
 <!--- ![Github stats](https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark) -->
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhalingamd&layout=compact) -->
