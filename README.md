@@ -31,8 +31,21 @@ npx subhalingamd
 ```
 *To know more about this tool, watch [subhalingamd/npx-card](https://github.com/subhalingamd/npx-card)*
 
-<br /><br />
 
+
+<!--- ![Github stats](https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark) -->
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhalingamd&layout=compact) -->
+
+
+<!---
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=subhalingamd.subhalingamd)
+<img align="right" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/subhalingamd/subhalingamd?color=blue&label=last%20updated">
+--->
+<img align="right" alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=subhalingamd.subhalingamd">
+
+### Ask me anything [here](https://github.com/subhalingamd/subhalingamd/discussions/)
+
+<hr>
 
 <details>
   <summary><b>Waka Stats</b></summary>
@@ -99,20 +112,5 @@ Jupyter Notebook         4 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
-
-<!--- ![Github stats](https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark) -->
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhalingamd&layout=compact) -->
-
-<hr>
-<!---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=subhalingamd.subhalingamd)
-<img align="right" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/subhalingamd/subhalingamd?color=blue&label=last%20updated">
---->
-<img align="right" alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=subhalingamd.subhalingamd">
-
-### Ask me anything [here](https://github.com/subhalingamd/subhalingamd/discussions/)
-
-
-
 
 
