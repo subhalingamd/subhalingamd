@@ -15,11 +15,11 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 <br />
 
 
-💻 I’m currently working with my Course projects on **Information Retrieval** and **Fuzzy Neural Networks** <br />
-🔭 I’m currently exploring **Question/Answering (Q/A) models** in Information Retrieval <br />
-💬 Brainstorm with me over tech, football, movies and music <br />
-😄 Pronouns: He/Him/His <br />
-📄 Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br />
+⚙️ &nbsp; I’m currently working with my Course projects on **Information Retrieval** and **Fuzzy Neural Networks** <br />
+🔭 &nbsp; I’m currently exploring **Question/Answering (Q/A) models** in Information Retrieval <br />
+💬 &nbsp; Brainstorm with me over tech, football, movies and music <br />
+😄 &nbsp; Pronouns: He/Him/His <br />
+📄 &nbsp; Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br />
 
 <br />
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark" align="right">
