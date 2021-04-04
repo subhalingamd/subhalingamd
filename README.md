@@ -44,7 +44,7 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-366757%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -87,8 +87,8 @@ HTML                     7 mins              ░░░░░░░░░░░�
 
 ```text
 Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91% 
-Jupyter Notebook         8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
 Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
 JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
 HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
 
