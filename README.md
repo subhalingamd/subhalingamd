@@ -21,6 +21,7 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 😄 &nbsp; Pronouns: He/Him/His <br />
 <!-- 📄 &nbsp; Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br /> -->
 
+<br />
 
 ### My Works
 **Machine Learning & Information Retrieval:** 
