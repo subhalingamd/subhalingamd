@@ -22,6 +22,53 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 <!-- 📄 &nbsp; Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br /> -->
 
 
+### My Works
+
+<details open>
+<summary><b>Machine Learning & Information Retrieval</b></summary>
+<br/>
+
+Ttitle|Repo|Description|Tags
+---|---|---|---
+Bankruptcy Prediction | [`cb3101 / bankruptcy_prediction`](https://github.com/cb3101/bankruptcy_prediction) | A comparative study of different missing values imputation and resampling techniques, aimed at improving the F1-scores of the models trained using the highly imbalanced [Polish Companies Bankruptcy dataset](https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) | `mtl782`, `data-mining`
+Movie Recommender | [`movie-finder`](https://github.com/subhalingamd/movie-finder) | A simple movie recommender system built using the [MovieLens dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) | `col764`, `information-retrieval`
+Diabetes Prediction using ANFIS | [`ANFIS-diabetes-prediction`](https://github.com/subhalingamd/ANFIS-diabetes-prediction) | Predicting Diabetes using Adaptive-Network-based Fuzzy Inference System (ANFIS) | `mtl717`, `fuzzy`
+Dealing with Fake Content | [`dealing-with-fake-content`](https://github.com/subhalingamd/dealing-with-fake-content) | Term Paper surveying SOTA models for fake content detection | `col764`, `information-retrieval`
+
+</details>
+
+<details open>
+<summary><b>Computer Science</b></summary>
+<br/>
+
+Ttitle|Repo|Description|Tags
+---|---|---|---
+
+
+</details>
+
+<details open>
+<summary><b>Web Development</b></summary>
+<br/>
+
+Ttitle|Repo|Description|Tags
+---|---|---|---
+
+
+</details>
+
+<details open>
+<summary><b>Others</b></summary>
+<br/>
+
+Ttitle|Repo|Description|Tags
+---|---|---|---
+OS Assignments | `os-assignments` 🔒 | Assignments done for MTL458 course (Spring 2021) | `mtl458` `os`
+
+</details>
+
+
+
 
 
 <br />
