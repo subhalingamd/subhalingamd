@@ -21,10 +21,22 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 😄 &nbsp; Pronouns: He/Him/His <br />
 <!-- 📄 &nbsp; Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br /> -->
 
-
-
-
 <br />
+
+### My Works
+**Machine Learning & Information Retrieval:** 
+
+**[`cb3101/bankruptcy_prediction`](https://github.com/cb3101/bankruptcy_prediction)**  [`movie-finder`](https://github.com/subhalingamd/movie-finder)  **[`ANFIS-diabetes-prediction`](https://github.com/subhalingamd/ANFIS-diabetes-prediction)**  [`dealing-with-fake-content`](https://github.com/subhalingamd/dealing-with-fake-content)  **[`ir-pseudo-relevance-feedback`](https://github.com/subhalingamd/ir-pseudo-relevance-feedback)**  **[`ir-vsm`](https://github.com/subhalingamd/ir-vsm)**  [`rnn-movie-review-sentiment-analysis`](https://github.com/subhalingamd/rnn-movie-review-sentiment-analysis)  [`nn-mnist-digit-classifier`](https://github.com/subhalingamd/nn-mnist-digit-classifier)  [`cnn-cat-dog-classifier`](https://github.com/subhalingamd/cnn-cat-dog-classifier)
+
+**Software Development:** 
+
+**[`py-differentiate`](https://github.com/subhalingamd/py-differentiate)**  **[`graphs`](https://github.com/subhalingamd/graphs)**  **[`jobs-scheduler`](https://github.com/subhalingamd/jobs-scheduler)**  [`hashing`](https://github.com/subhalingamd/hashing)  [`consumer-producer`](https://github.com/subhalingamd/consumer-producer)  [`cfiles`](https://github.com/subhalingamd/cfiles)
+
+**Web Development:** 
+
+**[`mathsociitd/website`](https://github.com/mathsociitd/website)**  **[`ashugupta249/sac_website`](https://github.com/ashugupta249/sac_website)**  [`EDCIITD/Entrepreneurship-Portal-IITDelhi`](https://github.com/EDCIITD/Entrepreneurship-Portal-IITDelhi)  **[`sportal`](https://github.com/subhalingamd/sportal)**
+
+<br /><br />
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark" align="right">
 
 **Get to know about me from the Command Line!** <br />
