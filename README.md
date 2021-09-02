@@ -10,13 +10,13 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-subhalingamd-cd201f?style=flat&logo=Youtube&logoColor=white&link=https://youtube.com/subhalingamd/)](https://youtube.com/subhalingamd) -->
 <!-- [![Quora Badge](https://img.shields.io/badge/-subhalingamd-b92b27?style=flat&logo=Quora&logoColor=white&link=https://quora.com/subhalingamd/)](https://quora.com/subhalingam-d) -->
 
-I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in Mathematics and Computing. I'm a Full-Stack Developer, a Deep Learning enthusiast and an incoming summer intern at [Samsung R&D Institute](https://research.samsung.com/sri-d). Besides programming, I have an immense interest in teaching and I love watching football, watching movies & listening to music.
+I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in Mathematics and Computing. I'm a Full-Stack Developer, a Deep Learning enthusiast and interned at [Samsung R&D Institute](https://research.samsung.com/sri-d) in Summer '21. Besides programming, I have an immense interest in teaching and I love watching football, watching movies & listening to music.
 
 <br />
 
 
-👨‍💻 &nbsp; I’m currently working on projects in the areas of **Information Retrieval** and **Data Mining** <br />
-🔭 &nbsp; I’m currently exploring **Question/Answering (Q/A) models** in Information Retrieval <br />
+👨‍💻 &nbsp; Interested in the areas of **Information Retrieval**, **Natural Language Processing** and **Data Mining** <br />
+🔭 &nbsp; Currently working on a research project [`data-iitd/TechTrack`](https://github.com/data-iitd/TechTrack) <br />
 💬 &nbsp; Brainstorm with me over tech, football, movies and music <br />
 😄 &nbsp; Pronouns: He/Him/His <br />
 <!-- 📄 &nbsp; Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br /> -->
@@ -26,7 +26,7 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 ### My Works
 **Machine Learning & Information Retrieval:** 
 
-**[`cb3101/bankruptcy_prediction`](https://github.com/cb3101/bankruptcy_prediction)**  [`movie-finder`](https://github.com/subhalingamd/movie-finder)  **[`ANFIS-diabetes-prediction`](https://github.com/subhalingamd/ANFIS-diabetes-prediction)**  [`dealing-with-fake-content`](https://github.com/subhalingamd/dealing-with-fake-content)  **[`ir-pseudo-relevance-feedback`](https://github.com/subhalingamd/ir-pseudo-relevance-feedback)**  **[`ir-vsm`](https://github.com/subhalingamd/ir-vsm)**  [`rnn-movie-review-sentiment-analysis`](https://github.com/subhalingamd/rnn-movie-review-sentiment-analysis)  [`nn-mnist-digit-classifier`](https://github.com/subhalingamd/nn-mnist-digit-classifier)  [`cnn-cat-dog-classifier`](https://github.com/subhalingamd/cnn-cat-dog-classifier)
+**[`data-iitd/TechTrack`](https://github.com/data-iitd/TechTrack)**  **[`cb3101/bankruptcy_prediction`](https://github.com/cb3101/bankruptcy_prediction)**  [`movie-finder`](https://github.com/subhalingamd/movie-finder)  **[`ANFIS-diabetes-prediction`](https://github.com/subhalingamd/ANFIS-diabetes-prediction)**  [`dealing-with-fake-content`](https://github.com/subhalingamd/dealing-with-fake-content)  **[`ir-pseudo-relevance-feedback`](https://github.com/subhalingamd/ir-pseudo-relevance-feedback)**  **[`ir-vsm`](https://github.com/subhalingamd/ir-vsm)**  [`rnn-movie-review-sentiment-analysis`](https://github.com/subhalingamd/rnn-movie-review-sentiment-analysis)  [`nn-mnist-digit-classifier`](https://github.com/subhalingamd/nn-mnist-digit-classifier)  [`cnn-cat-dog-classifier`](https://github.com/subhalingamd/cnn-cat-dog-classifier)
 
 **Software Development:** 
 
