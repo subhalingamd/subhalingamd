@@ -19,7 +19,7 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 🔭 &nbsp; Currently working on a research project [`data-iitd/TechTrack`](https://github.com/data-iitd/TechTrack) <br />
 💬 &nbsp; Brainstorm with me over tech, football, movies and music <br />
 😄 &nbsp; Pronouns: He/Him/His <br />
-<!-- 📄 &nbsp; Know about my experiences: [Resume](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br /> -->
+📄 &nbsp; Know about my experiences: <a href="https://subhalingamd.github.io/SubhalingamD.CV.pdf"><kbd>Resume</kbd></a>  <br />
 
 <br />
 
