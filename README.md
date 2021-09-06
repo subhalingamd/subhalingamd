@@ -15,11 +15,10 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 <br />
 
 
-👨‍💻 &nbsp; Interested in the areas of **Information Retrieval**, **Natural Language Processing** and **Data Mining** <br />
-🔭 &nbsp; Currently working on a research project [`data-iitd/TechTrack`](https://github.com/data-iitd/TechTrack) <br />
-💬 &nbsp; Brainstorm with me over tech, football, movies and music <br />
-😄 &nbsp; Pronouns: He/Him/His <br />
-📄 &nbsp; Know about my experiences: <a href="https://subhalingamd.github.io/SubhalingamD.CV.pdf"><kbd>Resume</kbd></a>  <br />
+<kbd>I</kbd> &nbsp; Interested in the areas of **Information Retrieval**, **Natural Language Processing** and **Data Mining** <br />
+<kbd>P</kbd> &nbsp; Currently working on a Research Project: [`data-iitd/TechTrack`](https://github.com/data-iitd/TechTrack) <br />
+<kbd>B</kbd> &nbsp; Brainstorm with me over tech, football, movies and music <br />
+<kbd>R</kbd> &nbsp; Know about my experiences: [`Resume`](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br />
 
 <br />
 
