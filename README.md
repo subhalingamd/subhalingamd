@@ -91,13 +91,13 @@ Sunday       66 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -118,7 +118,7 @@ Java                     7 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/05/2022 18:50:02 UTC
+ Last Updated on 16/05/2022 18:56:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
