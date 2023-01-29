@@ -58,7 +58,7 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -91,15 +91,15 @@ Sunday       38 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 27 mins        █████████████████████░░░░   86.34% 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
+Python                   38 mins             ██████████████████████░░░   89.69% 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.0%
+VS Code                  42 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████   100.0%
+Linux                    42 mins             █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +120,7 @@ Java                     7 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 18:44:06 UTC
+ Last Updated on 29/01/2023 18:40:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
