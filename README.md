@@ -20,7 +20,7 @@ I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in M
 <kbd>I</kbd> &nbsp; Interested in the areas of **Information Retrieval**, **Natural Language Processing** and **Data Mining** <br />
 <kbd>P</kbd> &nbsp; Currently working on a Research Project: [`data-iitd/TechTrack`](https://github.com/data-iitd/TechTrack) <br />
 <kbd>B</kbd> &nbsp; Brainstorm with me over tech, football, movies and music <br />
-<kbd>R</kbd> &nbsp; Know about my experiences: [`Resume`](https://subhalingamd.github.io/SubhalingamD.CV.pdf)  <br />
+<kbd>R</kbd> &nbsp; Know about my experiences: [`Resume`](https://subhalingamd.me/resume/)  <br />
 
 <br />
 
