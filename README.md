@@ -59,6 +59,9 @@ I currently work as a Data Scientist at [KnowDis Data Science](https://www.knowd
 [`EDCIITD/Entrepreneurship-Portal-IITDelhi`](https://github.com/EDCIITD/Entrepreneurship-Portal-IITDelhi)
 **[`sportal`](https://github.com/subhalingamd/sportal)**
 
+<br />
+
+<!--
 <br /><br />
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subhalingamd&count_private=true&show_icons=true&include_all_commits=true&theme=dark" align="right">
 
@@ -72,6 +75,7 @@ npx subhalingamd
 
 
 <img align="right" alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=subhalingamd.subhalingamd">
+-->
 
 ### Ask me anything [here](https://github.com/subhalingamd/subhalingamd/discussions/)
 
