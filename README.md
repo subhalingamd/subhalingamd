@@ -11,16 +11,15 @@
 <!-- [![Quora Badge](https://img.shields.io/badge/-subhalingamd-b92b27?style=flat&logo=Quora&logoColor=white&link=https://quora.com/subhalingamd/)](https://quora.com/subhalingam-d) -->
 
 
-
-I'm an undergraduate student at [IIT Delhi](http://www.iitd.ac.in) majoring in Mathematics and Computing. I'm a Full-Stack Developer, a Deep Learning enthusiast and interned at [Samsung R&D Institute](https://research.samsung.com/sri-d) in Summer '21. Besides programming, I have an immense interest in teaching and I love watching football, watching movies & listening to music.
+I currently work as a Data Scientist at [KnowDis Data Science](https://www.knowdis.ai) where I apply NLP techniques in the e-commerce search pipeline (e.g., product categorization, query segmentation, etc.). I earned my B.Tech. degree in Mathematics and Computing from the [Indian Institute of Technology, Delhi (IIT Delhi)](http://www.iitd.ac.in). Previously, I have worked as a Software Engineering Intern at [Samsung R&D Institute](https://research.samsung.com/sri-d) in Summer '21. Besides programming, I have an immense interest in teaching and I love watching football, watching movies, listening to music and reading books.
 
 <br />
 
 
-<kbd>I</kbd> &nbsp; Interested in the areas of **Information Retrieval**, **Natural Language Processing** and **Data Mining** <br />
-<kbd>P</kbd> &nbsp; Currently working on a Research Project: [`data-iitd/TechTrack`](https://github.com/data-iitd/TechTrack) <br />
-<kbd>B</kbd> &nbsp; Brainstorm with me over tech, football, movies and music <br />
-<kbd>R</kbd> &nbsp; Know about my experiences: [`Resume`](https://subhalingamd.me/resume/)  <br />
+<kbd>I</kbd> &nbsp; Interested in the broad areas of **Natural Language Processing (NLP)** and **Information Retrieval (IR)** <br />
+<kbd>R</kbd> &nbsp; Specific research interests: Multilingual NLP, Machine Translation, Question Answering, NLP for Social Good  <br />
+<kbd>B</kbd> &nbsp; Brainstorm with me over tech, football, movies, music and books <br />
+<kbd>E</kbd> &nbsp; Know about my experiences: [`Resume`](https://subhalingamd.me/resume/)  <br />
 
 <br />
 
