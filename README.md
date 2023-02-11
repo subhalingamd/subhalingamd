@@ -11,7 +11,7 @@
 <!-- [![Quora Badge](https://img.shields.io/badge/-subhalingamd-b92b27?style=flat&logo=Quora&logoColor=white&link=https://quora.com/subhalingamd/)](https://quora.com/subhalingam-d) -->
 
 
-I currently work as a Data Scientist at [KnowDis Data Science](https://www.knowdis.ai) where I apply NLP techniques in the e-commerce search pipeline (e.g., product categorization, query segmentation, etc.). I earned my B.Tech. degree in Mathematics and Computing from the [Indian Institute of Technology, Delhi (IIT Delhi)](http://www.iitd.ac.in). Previously, I have worked as a Software Engineering Intern at [Samsung R&D Institute](https://research.samsung.com/sri-d) in Summer '21. Besides programming, I have an immense interest in teaching and I love watching football, watching movies, listening to music and reading books.
+I currently work as a Data Scientist at [KnowDis Data Science](https://www.knowdis.ai) where I apply NLP techniques in the e-commerce search pipeline (e.g., product categorization, query segmentation, etc.). I earned my B.Tech. degree in Mathematics and Computing from the [Indian Institute of Technology, Delhi (IIT Delhi)](http://www.iitd.ac.in). Previously, I have worked as a Software Engineering Intern at [Samsung R&D Institute](https://research.samsung.com/sri-d) in Summer '21. Besides programming, I have an immense interest in teaching and I love watching football, watching movies, listening to music & reading books.
 
 <br />
 
