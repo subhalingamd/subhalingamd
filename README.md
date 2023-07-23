@@ -86,7 +86,7 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C825%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C825%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -121,14 +121,14 @@ Python                   13 hrs 54 mins      ███████████�
 YAML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 Docker                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 Bash                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 hrs 48 mins      █████████████████████████   99.79 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Linux                    20 hrs 42 mins      █████████████████████████   99.36 % 
+Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -148,7 +148,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2023 18:35:35 UTC
+ Last Updated on 23/07/2023 18:35:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
