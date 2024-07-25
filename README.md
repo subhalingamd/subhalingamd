@@ -86,7 +86,45 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C116%20hrs%2025%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                443 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+🌆 Daytime                1258 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌃 Evening                1357 commits        ███████████░░░░░░░░░░░░░░   43.23 % 
+🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   484 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Tuesday                  460 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Wednesday                294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Thursday                 345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Friday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Saturday                 686 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Sunday                   492 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
@@ -105,7 +143,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:51:18 UTC
+ Last Updated on 25/07/2024 18:45:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
