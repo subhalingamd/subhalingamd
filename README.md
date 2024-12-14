@@ -117,14 +117,13 @@ Sunday                   492 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   16 mins             ██████████████████████░░░   86.28 % 
-CSV                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +143,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2024 18:59:05 UTC
+ Last Updated on 14/12/2024 18:54:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
