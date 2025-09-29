@@ -86,6 +86,8 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C437%20hrs%2025%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
@@ -105,7 +107,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:58:10 UTC
+ Last Updated on 29/09/2025 19:06:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
