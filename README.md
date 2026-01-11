@@ -86,7 +86,7 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C593%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C593%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -117,14 +117,14 @@ Sunday                   474 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   45 mins             ████████████████░░░░░░░░░   65.14 % 
-CSV                      24 mins             █████████░░░░░░░░░░░░░░░░   34.86 % 
+CSV                      18 mins             ████████████████░░░░░░░░░   62.07 % 
+Python                   11 mins             █████████░░░░░░░░░░░░░░░░   37.93 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +144,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 18:52:33 UTC
+ Last Updated on 11/01/2026 18:52:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
