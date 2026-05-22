@@ -86,8 +86,6 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C616%20hrs%206%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -117,14 +115,14 @@ Sunday                   475 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 min               █████████████████████████   98.43 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Python                   2 mins              ██████████████████░░░░░░░   73.43 % 
+Markdown                 0 secs              ███████░░░░░░░░░░░░░░░░░░   26.57 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +142,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:25:20 UTC
+ Last Updated on 22/05/2026 20:23:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
