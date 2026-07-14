@@ -117,8 +117,7 @@ Sunday                   475 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TOML                     0 secs              ████████████████░░░░░░░░░   62.80 % 
-Markdown                 0 secs              █████████░░░░░░░░░░░░░░░░   37.20 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
@@ -144,7 +143,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 20:02:55 UTC
+ Last Updated on 14/07/2026 19:58:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
