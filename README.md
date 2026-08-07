@@ -86,53 +86,7 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%2038%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                444 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-🌆 Daytime                1268 commits        ██████████░░░░░░░░░░░░░░░   40.63 % 
-🌃 Evening                1328 commits        ███████████░░░░░░░░░░░░░░   42.55 % 
-🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   477 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Tuesday                  462 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Thursday                 343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Friday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Saturday                 683 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Sunday                   475 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -151,7 +105,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:12:06 UTC
+ Last Updated on 07/08/2026 00:28:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
