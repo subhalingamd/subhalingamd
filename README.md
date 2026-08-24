@@ -86,9 +86,9 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C355%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,19 +119,35 @@ Sunday                   476 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 42 mins       ██████████████████░░░░░░░   71.42 % 
+Other                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity CLI          2 hrs 28 mins       ████████████████░░░░░░░░░   65.22 % 
+VS Code                  1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   34.78 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 45 mins (99.22%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 59 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 387 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -151,7 +167,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 19:03:50 UTC
+ Last Updated on 24/08/2026 19:18:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
