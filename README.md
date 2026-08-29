@@ -119,22 +119,22 @@ Sunday                   476 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 hrs 40 mins       ███████████████░░░░░░░░░░   58.98 % 
-Other                    4 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.84 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Markdown                 6 hrs 52 mins       ███████████████░░░░░░░░░░   59.11 % 
+Other                    4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.84 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-Antigravity CLI          8 hrs 55 mins       ████████████████████░░░░░   78.84 % 
-VS Code                  2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Antigravity CLI          9 hrs 10 mins       ████████████████████░░░░░   78.89 % 
+VS Code                  2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
 
 💻 Operating System: 
-Mac                      11 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 1 min (97.43%)
+⏱ AI Coding Time: 11 hrs 16 mins (97.04%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -142,7 +142,7 @@ Mac                      11 hrs 18 mins      ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 157 AI Prompts
+🧠 14 AI Sessions, 164 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -168,7 +168,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:23:39 UTC
+ Last Updated on 29/08/2026 01:57:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
