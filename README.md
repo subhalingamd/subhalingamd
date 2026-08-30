@@ -86,9 +86,9 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,22 +119,22 @@ Sunday                   476 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 hrs 52 mins       ███████████████░░░░░░░░░░   59.11 % 
-Other                    4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.84 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Markdown                 6 hrs 54 mins       ██████████████░░░░░░░░░░░   56.57 % 
+Other                    4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.63 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-Antigravity CLI          9 hrs 10 mins       ████████████████████░░░░░   78.89 % 
-VS Code                  2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Antigravity CLI          9 hrs 43 mins       ████████████████████░░░░░   79.62 % 
+VS Code                  2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
 
 💻 Operating System: 
-Mac                      11 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 16 mins (97.04%)
+⏱ AI Coding Time: 11 hrs 49 mins (96.9%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -142,12 +142,12 @@ Mac                      11 hrs 37 mins      ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 164 AI Prompts
+🧠 15 AI Sessions, 167 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 228 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 225 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -168,7 +168,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:11:23 UTC
+ Last Updated on 30/08/2026 21:27:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
