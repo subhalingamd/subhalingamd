@@ -119,21 +119,21 @@ Sunday                   476 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 hrs 11 mins       ███████████████████░░░░░░   74.10 % 
-Other                    1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Other                    58 mins             ████████████████░░░░░░░░░   64.76 % 
+Markdown                 31 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
 
 🔥 Editors: 
-Antigravity CLI          3 hrs 46 mins       ██████████████████████░░░   87.45 % 
-VS Code                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Antigravity CLI          1 hr 9 mins         ███████████████████░░░░░░   76.69 % 
+VS Code                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
 
 💻 Operating System: 
-Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 55 mins (91.08%)
+⏱ AI Coding Time: 1 hr 13 mins (82.23%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -141,12 +141,12 @@ Mac                      4 hrs 19 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 60 AI Prompts
+🧠 3 AI Sessions, 20 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 180 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
+📝 Concise Prompter — average 165 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -167,7 +167,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:21:12 UTC
+ Last Updated on 02/09/2026 21:21:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
