@@ -86,30 +86,30 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.85%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                444 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌆 Daytime                1268 commits        ██████████░░░░░░░░░░░░░░░   40.61 % 
-🌃 Evening                1329 commits        ███████████░░░░░░░░░░░░░░   42.57 % 
-🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+🌞 Morning                463 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌆 Daytime                1280 commits        ██████████░░░░░░░░░░░░░░░   40.14 % 
+🌃 Evening                1365 commits        ███████████░░░░░░░░░░░░░░   42.80 % 
+🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   477 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Tuesday                  462 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Thursday                 343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Friday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Saturday                 683 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Sunday                   476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Monday                   487 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  469 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Thursday                 359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Friday                   387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Saturday                 684 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Sunday                   505 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 ```
 
 
@@ -119,45 +119,46 @@ Sunday                   476 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    58 mins             ████████████████░░░░░░░░░   64.76 % 
-Markdown                 31 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
+Other                    1 hr 52 mins        ███████████████████░░░░░░   77.47 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+SSH Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 9 mins         ███████████████████░░░░░░   76.69 % 
-VS Code                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Antigravity CLI          2 hrs 3 mins        █████████████████████░░░░   84.86 % 
+VS Code                  22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 
 💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (82.23%)
+⏱ AI Coding Time: 2 hrs 8 mins (88.6%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 20 AI Prompts
+🧠 4 AI Sessions, 33 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 165 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 145 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Jupyter Notebook         13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-TeX                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   16 repos            ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Jupyter Notebook         13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+TeX                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
@@ -167,7 +168,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:21:14 UTC
+ Last Updated on 03/09/2026 21:21:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
