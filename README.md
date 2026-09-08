@@ -119,24 +119,24 @@ Sunday                   505 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 18 mins       █████████████░░░░░░░░░░░░   53.79 % 
-YAML                     2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Other                    5 hrs               █████████████░░░░░░░░░░░░   53.69 % 
+YAML                     2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-Antigravity CLI          8 hrs 17 mins       █████████████████████░░░░   84.01 % 
-VS Code                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Antigravity CLI          7 hrs 56 mins       █████████████████████░░░░   85.30 % 
+VS Code                  1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 
 💻 Operating System: 
-Mac                      9 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 21 mins (94.67%)
+⏱ AI Coding Time: 8 hrs 55 mins (95.78%)
 
 ✍️ 0 lines written by AI, 23 lines written by hand (0.0% AI-written)
 
@@ -144,11 +144,11 @@ Mac                      9 hrs 52 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 163 AI Prompts
+🧠 11 AI Sessions, 153 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 150 characters per prompt
+📝 Concise Prompter — average 151 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -170,7 +170,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:48:06 UTC
+ Last Updated on 08/09/2026 21:27:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
