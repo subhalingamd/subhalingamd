@@ -86,9 +86,9 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C364%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C365%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,37 +119,37 @@ Sunday                   505 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 6 mins        █████████████░░░░░░░░░░░░   52.73 % 
-YAML                     2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other                    4 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.82 % 
+YAML                     2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Python                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Antigravity CLI          8 hrs 16 mins       █████████████████████░░░░   85.40 % 
-VS Code                  1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Antigravity CLI          8 hrs 9 mins        ████████████████████░░░░░   81.70 % 
+VS Code                  1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 
 💻 Operating System: 
-Mac                      9 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 15 mins (95.58%)
+⏱ AI Coding Time: 9 hrs 24 mins (94.11%)
 
-✍️ 0 lines written by AI, 23 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 11 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 158 AI Prompts
+🧠 14 AI Sessions, 181 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 151 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 145 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -170,7 +170,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:12:21 UTC
+ Last Updated on 10/09/2026 21:10:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
