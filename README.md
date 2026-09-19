@@ -119,22 +119,22 @@ Sunday                   505 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 35 mins        ███████████░░░░░░░░░░░░░░   42.18 % 
-Markdown                 1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   37.21 % 
-YAML                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Other                    44 mins             █████████░░░░░░░░░░░░░░░░   37.52 % 
+YAML                     38 mins             ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
 
 🔥 Editors: 
-Antigravity CLI          3 hrs 16 mins       ██████████████████████░░░   86.89 % 
-VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Antigravity CLI          1 hr 42 mins        ██████████████████████░░░   86.92 % 
+VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 42 mins (98.53%)
+⏱ AI Coding Time: 1 hr 55 mins (97.19%)
 
 ✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
@@ -142,12 +142,12 @@ Mac                      3 hrs 45 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 74 AI Prompts
+🧠 5 AI Sessions, 28 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 347 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 229 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -168,7 +168,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:13:28 UTC
+ Last Updated on 19/09/2026 21:02:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
