@@ -119,36 +119,35 @@ Sunday                   505 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    44 mins             █████████░░░░░░░░░░░░░░░░   37.52 % 
-YAML                     38 mins             ████████░░░░░░░░░░░░░░░░░   32.38 % 
-Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Other                    15 mins             ███████████████░░░░░░░░░░   59.28 % 
+Markdown                 10 mins             ██████████░░░░░░░░░░░░░░░   40.72 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 42 mins        ██████████████████████░░░   86.92 % 
-VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Antigravity CLI          21 mins             ████████████████████░░░░░   79.78 % 
+VS Code                  5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 
 💻 Operating System: 
-Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (97.19%)
+⏱ AI Coding Time: 26 mins (100.0%)
 
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 28 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 127 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -168,7 +167,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 21:02:10 UTC
+ Last Updated on 20/09/2026 21:06:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
