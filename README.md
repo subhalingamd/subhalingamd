@@ -119,21 +119,21 @@ Sunday                   505 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 10 mins             ████████████████░░░░░░░░░   65.66 % 
-Other                    5 mins              █████████░░░░░░░░░░░░░░░░   34.34 % 
+Markdown                 10 mins             ███████████████████████░░   91.57 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 🔥 Editors: 
-Antigravity CLI          11 mins             █████████████████░░░░░░░░   67.40 % 
-VS Code                  5 mins              ████████░░░░░░░░░░░░░░░░░   32.60 % 
+Antigravity CLI          6 mins              ██████████████░░░░░░░░░░░   54.54 % 
+VS Code                  5 mins              ███████████░░░░░░░░░░░░░░   45.46 % 
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (100.0%)
+⏱ AI Coding Time: 11 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -141,12 +141,12 @@ Mac                      16 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 114 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -167,7 +167,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:16:03 UTC
+ Last Updated on 22/09/2026 21:42:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
