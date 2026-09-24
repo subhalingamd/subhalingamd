@@ -88,7 +88,7 @@ npx subhalingamd
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C368%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,21 +119,21 @@ Sunday                   505 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 10 mins             ███████████████████████░░   91.57 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Markdown                 10 mins             ████████████████████░░░░░   81.09 % 
+Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 
 🔥 Editors: 
-Antigravity CLI          6 mins              ██████████████░░░░░░░░░░░   54.54 % 
-VS Code                  5 mins              ███████████░░░░░░░░░░░░░░   45.46 % 
+Antigravity CLI          8 mins              ███████████████░░░░░░░░░░   59.74 % 
+VS Code                  5 mins              ██████████░░░░░░░░░░░░░░░   40.26 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (100.0%)
+⏱ AI Coding Time: 13 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -141,12 +141,12 @@ Mac                      11 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 114 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 113 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -167,7 +167,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:47:49 UTC
+ Last Updated on 24/09/2026 21:49:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
