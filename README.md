@@ -119,21 +119,19 @@ Sunday                   505 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 10 mins             ████████████████████░░░░░   81.09 % 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity CLI          8 mins              ███████████████░░░░░░░░░░   59.74 % 
-VS Code                  5 mins              ██████████░░░░░░░░░░░░░░░   40.26 % 
+Antigravity CLI          1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -141,12 +139,12 @@ Mac                      13 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 113 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 105 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -167,7 +165,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:49:24 UTC
+ Last Updated on 25/09/2026 21:53:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
