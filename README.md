@@ -137,11 +137,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Jupyter Notebook         13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-TeX                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Jupyter Notebook         13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+TeX                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
@@ -151,7 +151,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:36:55 UTC
+ Last Updated on 01/10/2026 22:51:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
