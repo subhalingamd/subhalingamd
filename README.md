@@ -86,9 +86,9 @@ npx subhalingamd
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C368%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C369%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,19 +119,38 @@ Sunday                   534 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 7 mins         █████████████████████████   99.90 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity CLI          54 mins             ████████████████████░░░░░   80.50 % 
+VS Code                  13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 7 mins (99.07%)
+
+✍️ 3,404 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 812,879 Input Tokens, 154,570 Output Tokens
+
+💵 $3.45 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 14 AI Prompts
+
+Gemini                   3,404 lines         █████████████████████████   100.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 106 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -151,7 +170,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:58:24 UTC
+ Last Updated on 19/10/2026 22:33:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
