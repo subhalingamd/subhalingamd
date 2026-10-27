@@ -119,37 +119,37 @@ Sunday                   534 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 15 mins        ███████████████░░░░░░░░░░   59.58 % 
-Other                    41 mins             ████████░░░░░░░░░░░░░░░░░   32.89 % 
-Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Markdown                 1 hr 15 mins        ██████████████░░░░░░░░░░░   56.40 % 
+JSON                     46 mins             █████████░░░░░░░░░░░░░░░░   35.15 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 4 mins         █████████████░░░░░░░░░░░░   50.96 % 
-VS Code                  1 hr 2 mins         ████████████░░░░░░░░░░░░░   49.04 % 
+VS Code                  1 hr 36 mins        ██████████████████░░░░░░░   72.55 % 
+Antigravity CLI          36 mins             ███████░░░░░░░░░░░░░░░░░░   27.45 % 
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (100.0%)
+⏱ AI Coding Time: 1 hr 26 mins (64.85%)
 
 ✍️ 6,815 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,783,906 Input Tokens, 562,688 Output Tokens
+🔤 3,769,241 Input Tokens, 562,550 Output Tokens
 
-💵 $14.32 Estimated AI Cost This Week
+💵 $14.29 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 6 AI Prompts
+🧠 19 AI Sessions, 3 AI Prompts
 
 Gemini                   6,815 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
+📝 Concise Prompter — average 55 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -171,7 +171,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/subhalingamd/subhalingamd/master/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:50:28 UTC
+ Last Updated on 27/10/2026 22:30:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
